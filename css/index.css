@@ -1,0 +1,8 @@
+.menu {
+	height:10vh;
+	background:black;
+}
+.games-container {
+	height:90vh;
+	background-image:linear-gradient(45deg,#f38ffa,#539eee);
+}
