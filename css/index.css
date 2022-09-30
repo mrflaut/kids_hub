@@ -23,7 +23,17 @@
 .games-item {
 	width:400px;
 	height:600px;
+	list-style: none;
+	margin:0 20px;
+	margin: auto;
+
+	width: fit-content;
+	box-shadow: 0 5px 20px black;
+
+	border-radius: 20px;
+
 }
 .item1 {
-	background: url('img/CS-GO.PNG') center/cover no-repeat;
+	background: url('https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ab/43d910ae7d11e88e82d728f9399c9e/plant_Profile_logo.jpg?auto=format%2Ccompress&dpr=1') center/cover;
+	width: 400px;
 }
